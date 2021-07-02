@@ -3,7 +3,7 @@
 A dump calculator written in Haskell for practice purpose.
 
 To try, run:
-```haskell
+```bash
 ghc Calculator.hs &&
 ./Calculator
 ```
